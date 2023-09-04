@@ -11,8 +11,8 @@ Run the file_process.ipynb
 
   ### Installation
   Clone the repository: 'https://github.com/AdelChernyatov/Merge_files.git'
-  Navigate to the project directory: 'cd your-project'
-  Install dependencies:  install
+  Navigate to the project directory: 'cd Merge_files'
+  Install dependencies: pip install -r requirements.txt
 
 ## Usage
 storage_data is a directory, where you need move your sensor and mobile data files
