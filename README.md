@@ -5,8 +5,10 @@ Processing and merging two files from sensor and mobile(for large amount of data
 Run the file_process.ipynb
 
   ### Prerequisites
-  Python()
+  Python(3.11.4)
+  
   Numpy(1.25.2 or higher)
+  
   Pandas(2.0.3 or higher)
 
   ### Installation
