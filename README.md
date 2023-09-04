@@ -2,7 +2,7 @@
 Processing and merging two files from sensor and mobile(for large amount of data)
 
 ## Getting Started
-Run the file_process.ipynb
+Run the kernel in file_process.ipynb
 
   ### Prerequisites
   Python(3.11.4 or higher)
@@ -12,7 +12,7 @@ Run the file_process.ipynb
   Pandas(2.0.3 or higher)
 
   ### Installation
-  Clone the repository: 'https://github.com/AdelChernyatov/Merge_files.git'
+  Clone the repository: https://github.com/AdelChernyatov/Merge_files.git
   Navigate to the project directory: 'cd Merge_files'
   Install dependencies: pip install -r requirements.txt
 
