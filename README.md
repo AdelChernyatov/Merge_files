@@ -13,7 +13,9 @@ Run the kernel in file_process.ipynb
 
   ### Installation
   Clone the repository: https://github.com/AdelChernyatov/Merge_files.git
-  Navigate to the project directory: 'cd Merge_files'
+  
+  Navigate to the project directory: cd Merge_files
+  
   Install dependencies: pip install -r requirements.txt
 
 ## Usage
